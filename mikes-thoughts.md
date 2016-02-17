@@ -24,6 +24,8 @@
 * What do you like/hate about technology X?
 * How do you learn / keep up with new technologies?
 
+![Smart And Gets Things Done](https://raw.githubusercontent.com/ATL-WDI-Curriculum/technical-interviewing/master/images/smart-and-gets-things-done.png)
+
 See: "Smart and Gets Things Done" by _Joel Spolsky_
 
 ## Anatomy of a Technical Interview
