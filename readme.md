@@ -14,3 +14,4 @@
 * [18 Tough Questions Asked in Top JavaScript Interviews | Toptal](http://www.toptal.com/javascript/interview-questions)
 * [I have and interview as a MEAN stack developer. What should I focus on for the interview? - Quora](https://www.quora.com/I-have-and-interview-as-a-MEAN-stack-developer-What-should-I-focus-on-for-the-interview)
 * [On Interviewing as a Junior Dev](https://lizmrush.com/on-interviewing/)
+* [How to Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.t4dbmoldk)
