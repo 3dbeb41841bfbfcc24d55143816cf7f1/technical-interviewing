@@ -77,7 +77,9 @@
 * What are `documents`, `collections`, `embedding`, and `linking`?
 * When would you use `embedded` documents and when would you use `linking`?
 
-## Simple Coding Exercises
+---
+
+## Easy Coding Exercises
 
 ### Average
 
@@ -103,6 +105,18 @@ For example:
 * 1900 was *not* a leap (divisible by 4 but also divisible by 100)
 * 2000 was a leap year (divisible by 4 and 100 but also divisible by 400).
 
+### Temperature conversion
+
+Write a function to convert Celsius to Fahrenheit.
+
+### Pizza Party
+
+Write a function to calculate how many pizzas to order. The function should take the following arguments: `number_of_people_eating`, `slices_per_person`. You can assume that the pizzas will have 8 slices each.
+
+---
+
+## Medium Coding Exercises
+
 ### Progressive Tax
 
 Write a function that takes a single argument called "income" and calculates and returns the income tax due using a progressive tax:
@@ -111,14 +125,6 @@ Write a function that takes a single argument called "income" and calculates and
     10% for the next 20,000 dollars
     15% for the next 20,000 dollars
     20% for the rest
-
-### Temperature conversion
-
-Write a function to convert Celsius to Fahrenheit.
-
-### Pizza Party
-
-Write a function to calculate how many pizzas to order. The function should take the following arguments: `number_of_people_eating`, `slices_per_person`. You can assume that the pizzas will have 8 slices each.
 
 ### Factorial
 
@@ -133,3 +139,18 @@ Write a function to determine which Samurai will be the last one alive? Assume t
 ### Schedule Conflict
 
 Write a function that takes 2 time segments and returns `true` if they overlap. A time segment consists of a `startTime` and an `endTime`.
+
+### Traffic Light
+
+Write a class for a Traffic Light. Each traffic light instance should have a `name` and a `color` and methods to change the traffic light color. Finally add a method for advancing the traffic light to the next color (red -> green, green -> yellow, yellow -> red).
+
+## Hard Coding Exercises
+
+### Shuffling Cards
+
+Write a `Card` class for creating playing cards (each card should have a suit and a value). Then write a class for a `Deck` of cards. Have the `Deck` constructor initialize an instance variable with the classic 52 cards in the deck. Finally add a `shuffle` method to the `Deck` class to shuffle the cards. For shuffling you can assume a `random(min, max)` method that returns a random integer between `min` and `max`.
+
+### Printing a Binary Tree
+
+Write a function to print out the numbers in a sorted binary tree. The function should take a `node` as an argument and can assume that each node has `left` and a `right` child nodes (which may be null or nil).
+
