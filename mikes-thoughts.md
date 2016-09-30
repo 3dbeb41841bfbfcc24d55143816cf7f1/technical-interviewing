@@ -19,7 +19,7 @@ Instead edit 'template.md' and then run 'md-process'.
 * [Anatomy of a Technical Interview](#anatomy-of-a-technical-interview)
 * [Preparing for a Technical Interview](#preparing-for-a-technical-interview)
 * [Passing the Technical Interview](#passing-the-technical-interview)
-  * [Mike's Tips](#mike's-tips)
+  * [Mike's Tips](#mikes-tips)
 * [When to Negotiate](#when-to-negotiate)
 * [Contract vs. Perm](#contract-vs-perm)
 * [Recruiters:](#recruiters:)
