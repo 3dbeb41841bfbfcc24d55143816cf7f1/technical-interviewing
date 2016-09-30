@@ -1,6 +1,10 @@
 # Technical Interviews
 
-## What a company wants to know:
+![dilbert](images/dilbert.png)
+
+## What a company wants to know
+
+<img align="right" src="https://raw.githubusercontent.com/ATL-WDI-Curriculum/technical-interviewing/master/images/smart-and-gets-things-done.png">
 
 ### Are you smart?
 
@@ -23,10 +27,6 @@
 * What podcasts do you listen to?
 * What do you like/hate about technology X?
 * How do you learn / keep up with new technologies?
-
-![Smart And Gets Things Done](https://raw.githubusercontent.com/ATL-WDI-Curriculum/technical-interviewing/master/images/smart-and-gets-things-done.png)
-
-> "Smart and Gets Things Done" by _Joel Spolsky_
 
 ## Anatomy of a Technical Interview
 
@@ -131,6 +131,9 @@ Some common ingredients that you may see:
         * Note: be careful with asking too many questions that may imply that you are lazy or don’t want to come to work
 
 ## Passing the Technical Interview
+
+![Tips 1](images/interview-tips.jpg)
+![Tips 2](images/interview-tips-2.jpg)
 
 1. Be confident *and* humble:
 
