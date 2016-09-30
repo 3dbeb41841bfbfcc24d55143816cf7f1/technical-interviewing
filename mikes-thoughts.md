@@ -22,7 +22,7 @@ Instead edit 'template.md' and then run 'md-process'.
   * [Mike's Tips](#mikes-tips)
 * [When to Negotiate](#when-to-negotiate)
 * [Contract vs. Perm](#contract-vs-perm)
-* [Recruiters:](#recruiters:)
+* [Recruiters](#recruiters)
 
 ## What a company wants to know
 
@@ -228,7 +228,7 @@ Show excitement but don't appear desperate!
         * contract_rate = perm_salary / 2000 * 1.4
         * contract_rate = $60,000 / 2000 * 1.4 = $42 / hour
 
-## Recruiters:
+## Recruiters
 
 * Recruiters are like Real Estate Agents
     - Do you trust them?

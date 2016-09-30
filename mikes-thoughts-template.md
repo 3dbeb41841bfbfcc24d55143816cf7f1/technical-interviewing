@@ -208,7 +208,7 @@ Show excitement but don't appear desperate!
         * contract_rate = perm_salary / 2000 * 1.4
         * contract_rate = $60,000 / 2000 * 1.4 = $42 / hour
 
-## Recruiters:
+## Recruiters
 
 * Recruiters are like Real Estate Agents
     - Do you trust them?
