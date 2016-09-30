@@ -1,28 +1,8 @@
-<!--
-This file is auto-generated from a 'template.md'
-file using the 'md-process' script.
-Therefore *DO NOT* edit this file directly!
-Instead edit 'template.md' and then run 'md-process'.
--->
-
 # Technical Interviews
 
 ![dilbert](images/dilbert.png)
 
-## Table of Contents
-
-* [What a company wants to know](#what-a-company-wants-to-know)
-  * [Are you smart?](#are-you-smart?)
-  * [Can you get work done?](#can-you-get-work-done?)
-  * [Do you work well with others?](#do-you-work-well-with-others?)
-  * [What are you Passionate About?](#what-are-you-passionate-about?)
-* [Anatomy of a Technical Interview](#anatomy-of-a-technical-interview)
-* [Preparing for a Technical Interview](#preparing-for-a-technical-interview)
-* [Passing the Technical Interview](#passing-the-technical-interview)
-  * [Mike's Tips](#mike's-tips)
-* [When to Negotiate](#when-to-negotiate)
-* [Contract vs. Perm](#contract-vs-perm)
-* [Recruiters:](#recruiters:)
+{{ TOC }}
 
 ## What a company wants to know
 
