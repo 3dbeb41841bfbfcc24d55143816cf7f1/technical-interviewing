@@ -133,7 +133,14 @@ Some common ingredients that you may see:
 ## Passing the Technical Interview
 
 ![Tips 1](images/interview-tips.jpg)
+
+---
+
 ![Tips 2](images/interview-tips-2.jpg)
+
+---
+
+### Mike's Tips
 
 1. Be confident *and* humble:
 
