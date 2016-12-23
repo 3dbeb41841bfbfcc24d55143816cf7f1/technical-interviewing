@@ -89,6 +89,10 @@ Write a function that takes an array of numbers and returns the average of all t
 
 Write a function that plays the FizzBuzz game.
 
+### Counting Vowels
+
+Write a function to count the number of vowels in a string.
+
 ### Leap Year
 
 Write a function that will take a year and report if it is a leap year - i.e. the function takes a year as input and returns `true` if the year is a leap year and `false` otherwise. Note that a leap year occurs:
@@ -153,4 +157,3 @@ Write a `Card` class for creating playing cards (each card should have a suit an
 ### Printing a Binary Tree
 
 Write a function to print out the numbers in a sorted binary tree. The function should take a `node` as an argument and can assume that each node has `left` and a `right` child nodes (which may be null or nil).
-
